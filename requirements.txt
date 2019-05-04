@@ -2,3 +2,4 @@ Flask
 numpy
 pandas
 scikit-learn
+pylint

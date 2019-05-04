@@ -9,3 +9,7 @@ Udacity devops course on microservices
 * Run via kubectl
 * Configure cluster and Deploy
 * Loadtest and verify auto-scale
+
+## Boston Housing Dataset Pickled model Colab
+
+https://github.com/noahgift/boston_housing_pickle
