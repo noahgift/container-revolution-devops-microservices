@@ -5,7 +5,7 @@ Udacity devops course on microservices
 
 * Setup and Configure Docker locally
 * Setup and Configure Kubernetes locally
-* Create Flask SKLearn app in Container
+* Create Flask scikit-learn app in Container
 * Run via kubectl
 * Configure cluster and Deploy
 * Loadtest and verify auto-scale
