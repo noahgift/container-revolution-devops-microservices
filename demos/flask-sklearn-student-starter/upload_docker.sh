@@ -2,15 +2,15 @@
 # This tags and uploads an image to Docker Hub
 
 #Assumes this is built
-#docker build --tag=flasksklearn .
+# See `run_docker.sh`
 
+# Step 1:
+# Create your on docker ID here
+#dockerpath=""
 
-dockerpath="noahgift/flasksklearn"
-
+# Step 2:  
 # Authenticate & Tag
 echo "Docker ID and Image: $dockerpath"
-docker login &&\
-    docker image tag flasksklearn $dockerpath
 
+# Step 3:
 # Push Image
-docker image push $dockerpath 

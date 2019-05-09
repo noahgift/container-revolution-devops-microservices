@@ -23,7 +23,7 @@ def home():
     html = f"<h3>Sklearn Prediction Home</h3>"
     return html.format(format)
 
-
+# TO DO:  Log out the prediction value
 @app.route("/predict", methods=['POST'])
 def predict():
     """Performs an sklearn prediction
@@ -61,7 +61,6 @@ def predict():
     LOG.info(f"inference payload DataFrame: {inference_payload}")
     scaled_payload = scale(inference_payload)
     prediction = list(clf.predict(scaled_payload))
-    LOG.info(f"prediction {prediction}")
     return jsonify({'prediction': prediction})
 
 if __name__ == "__main__":
