@@ -2,7 +2,7 @@
 
 # Container Revolution
 
-OLT on  DevOps course on microservices
+Pearson OLT on  DevOps course on microservices
 
 ## Proposed Kubernetes Example Steps
 
