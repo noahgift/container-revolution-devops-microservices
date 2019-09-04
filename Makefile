@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.udacity-devops
+	python3 -m venv ~/.container-revolution-devops
 
 install:
 	pip install --upgrade pip &&\
