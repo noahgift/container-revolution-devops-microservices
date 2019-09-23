@@ -17,6 +17,16 @@ Pearson OLT on  DevOps course on microservices
 
 https://github.com/noahgift/boston_housing_pickle
 
-## Diagram
+## Diagram & Steps
+
+1.  Create project:  Dockerfile, app, serialized/pickled model
+2.  Build and test
+3.  Push to Dockerhub
+4.  Pull it onto AWS Cloud 9
+5.  Predict via pulled container
+6.  Extend and push to Amazon ECR
+7.  Pull onto new AWS Cloud 9 environment via ECR
+8.  Pull onto GCP Cloud
+
 
 [![image](https://user-images.githubusercontent.com/58792/65437053-1aeb5d00-ddf1-11e9-94ab-099fc7029e28.png)]
