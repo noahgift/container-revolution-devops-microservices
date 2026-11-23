@@ -30,3 +30,7 @@ https://github.com/noahgift/boston_housing_pickle
 
 
 [![image](https://user-images.githubusercontent.com/58792/65437053-1aeb5d00-ddf1-11e9-94ab-099fc7029e28.png)]
+
+<!-- FUNNEL-001 footer: replace container-revolution-devops-microservices with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=container-revolution-devops-microservices) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=container-revolution-devops-microservices)
