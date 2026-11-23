@@ -30,3 +30,11 @@ https://github.com/noahgift/boston_housing_pickle
 
 
 [![image](https://user-images.githubusercontent.com/58792/65437053-1aeb5d00-ddf1-11e9-94ab-099fc7029e28.png)]
+
+<!-- funnel:start -->
+---
+
+**Learn DevOps and CI/CD for Python:** [GitHub: From Zero to Pull Request (Coursera)](https://www.coursera.org/learn/github-zero?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=container-revolution-devops-microservices) · [AI Debugging and Test-Driven Fixes (Coursera)](https://www.coursera.org/learn/ai-debugging?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=container-revolution-devops-microservices) · [Data Engineering with Python and Linux program (edX)](https://www.edx.org/certificates/professional-certificate/ai-data-engineering-with-python-and-linux?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=container-revolution-devops-microservices)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->
